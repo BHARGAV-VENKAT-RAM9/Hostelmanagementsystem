@@ -1,0 +1,1420 @@
+{
+  "rooms": {
+    "101": {
+      "id": "101",
+      "floor": 1,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": {
+            "name": "ram",
+            "mobile": "9398175183",
+            "paid": true,
+            "coins": 600,
+            "checkInDate": "2026-08-18"
+          }
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "102": {
+      "id": "102",
+      "floor": 1,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": {
+            "name": "bhargav",
+            "mobile": "8888888888",
+            "paid": true,
+            "coins": 700,
+            "checkInDate": "2026-08-18"
+          }
+        },
+        {
+          "id": "B",
+          "student": {
+            "name": "venkat77777777",
+            "mobile": "7777777",
+            "paid": true,
+            "coins": 700,
+            "checkInDate": "2026-08-18"
+          }
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "103": {
+      "id": "103",
+      "floor": 1,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "104": {
+      "id": "104",
+      "floor": 1,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "105": {
+      "id": "105",
+      "floor": 1,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "106": {
+      "id": "106",
+      "floor": 1,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "107": {
+      "id": "107",
+      "floor": 1,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "108": {
+      "id": "108",
+      "floor": 1,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "109": {
+      "id": "109",
+      "floor": 1,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "110": {
+      "id": "110",
+      "floor": 1,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "201": {
+      "id": "201",
+      "floor": 2,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "202": {
+      "id": "202",
+      "floor": 2,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "203": {
+      "id": "203",
+      "floor": 2,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "204": {
+      "id": "204",
+      "floor": 2,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "205": {
+      "id": "205",
+      "floor": 2,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": {
+            "name": "Emily Davis",
+            "mobile": "8765432109",
+            "paid": true,
+            "coins": 600,
+            "checkInDate": "2026-08-10"
+          }
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "206": {
+      "id": "206",
+      "floor": 2,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "207": {
+      "id": "207",
+      "floor": 2,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "208": {
+      "id": "208",
+      "floor": 2,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "209": {
+      "id": "209",
+      "floor": 2,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "210": {
+      "id": "210",
+      "floor": 2,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "301": {
+      "id": "301",
+      "floor": 3,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "302": {
+      "id": "302",
+      "floor": 3,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "303": {
+      "id": "303",
+      "floor": 3,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "304": {
+      "id": "304",
+      "floor": 3,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "305": {
+      "id": "305",
+      "floor": 3,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "306": {
+      "id": "306",
+      "floor": 3,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "307": {
+      "id": "307",
+      "floor": 3,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "308": {
+      "id": "308",
+      "floor": 3,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "309": {
+      "id": "309",
+      "floor": 3,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "310": {
+      "id": "310",
+      "floor": 3,
+      "type": "Non-AC",
+      "rate": 6500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "401": {
+      "id": "401",
+      "floor": 4,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": {
+            "name": "Alex Johnson",
+            "mobile": "9000100020",
+            "paid": true,
+            "coins": 500,
+            "checkInDate": "2026-08-02"
+          }
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "402": {
+      "id": "402",
+      "floor": 4,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "403": {
+      "id": "403",
+      "floor": 4,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "404": {
+      "id": "404",
+      "floor": 4,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "405": {
+      "id": "405",
+      "floor": 4,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "406": {
+      "id": "406",
+      "floor": 4,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "407": {
+      "id": "407",
+      "floor": 4,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "408": {
+      "id": "408",
+      "floor": 4,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "409": {
+      "id": "409",
+      "floor": 4,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "410": {
+      "id": "410",
+      "floor": 4,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "501": {
+      "id": "501",
+      "floor": 5,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "502": {
+      "id": "502",
+      "floor": 5,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "503": {
+      "id": "503",
+      "floor": 5,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "504": {
+      "id": "504",
+      "floor": 5,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "505": {
+      "id": "505",
+      "floor": 5,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "506": {
+      "id": "506",
+      "floor": 5,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "507": {
+      "id": "507",
+      "floor": 5,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "508": {
+      "id": "508",
+      "floor": 5,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "509": {
+      "id": "509",
+      "floor": 5,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    },
+    "510": {
+      "id": "510",
+      "floor": 5,
+      "type": "AC",
+      "rate": 7500,
+      "beds": [
+        {
+          "id": "A",
+          "student": null
+        },
+        {
+          "id": "B",
+          "student": null
+        },
+        {
+          "id": "C",
+          "student": null
+        },
+        {
+          "id": "D",
+          "student": null
+        }
+      ]
+    }
+  },
+  "baseRates": {
+    "AC": 7500,
+    "Non-AC": 6500
+  },
+  "complaints": [
+    {
+      "id": "c2",
+      "room": "205",
+      "bed": "C",
+      "studentName": "Emily Davis",
+      "category": "Cleaning",
+      "description": "Room cleaning requested since yesterday.",
+      "status": "Resolved",
+      "createdAt": "2026-08-18T12:00:00Z"
+    },
+    {
+      "id": "cmsyuzhwm",
+      "room": "102",
+      "bed": "A",
+      "studentName": "bhargav",
+      "category": "Other",
+      "description": "hifaehfeba",
+      "status": "Pending",
+      "createdAt": "2026-08-18T16:10:10.150Z"
+    }
+  ],
+  "bills": [
+    {
+      "id": "b_mszkfw9z_bni93",
+      "roomId": "101",
+      "bedId": "C",
+      "studentName": "ram",
+      "studentMobile": "9398175183",
+      "month": "August 2026",
+      "amountPaid": 6500,
+      "originalRent": 6500,
+      "discountApplied": 0,
+      "coinsEarned": 300,
+      "status": "Paid",
+      "createdAt": "2026-08-18T00:00:00.000Z",
+      "paymentDate": "2026-08-18T00:00:00.000Z"
+    },
+    {
+      "id": "b_mszkfwa0_l3xju",
+      "roomId": "102",
+      "bedId": "A",
+      "studentName": "bhargav",
+      "studentMobile": "8888888888",
+      "month": "August 2026",
+      "amountPaid": 7500,
+      "originalRent": 7500,
+      "discountApplied": 0,
+      "coinsEarned": 350,
+      "status": "Paid",
+      "createdAt": "2026-08-18T00:00:00.000Z",
+      "paymentDate": "2026-08-18T00:00:00.000Z"
+    },
+    {
+      "id": "b_mszkfwa0_il7w2",
+      "roomId": "102",
+      "bedId": "B",
+      "studentName": "venkat77777777",
+      "studentMobile": "7777777",
+      "month": "August 2026",
+      "amountPaid": 7500,
+      "originalRent": 7500,
+      "discountApplied": 0,
+      "coinsEarned": 350,
+      "status": "Paid",
+      "createdAt": "2026-08-18T00:00:00.000Z",
+      "paymentDate": "2026-08-18T00:00:00.000Z"
+    },
+    {
+      "id": "b_mszkfwa0_rdduq",
+      "roomId": "205",
+      "bedId": "C",
+      "studentName": "Emily Davis",
+      "studentMobile": "8765432109",
+      "month": "August 2026",
+      "amountPaid": 6500,
+      "originalRent": 6500,
+      "discountApplied": 0,
+      "coinsEarned": 300,
+      "status": "Paid",
+      "createdAt": "2026-08-10T00:00:00.000Z",
+      "paymentDate": "2026-08-19T04:14:23.801Z"
+    },
+    {
+      "id": "b_mszkfwa0_9ndck",
+      "roomId": "401",
+      "bedId": "A",
+      "studentName": "Alex Johnson",
+      "studentMobile": "9000100020",
+      "month": "August 2026",
+      "amountPaid": 7500,
+      "originalRent": 7500,
+      "discountApplied": 0,
+      "coinsEarned": 350,
+      "status": "Paid",
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "paymentDate": "2026-08-02T00:00:00.000Z"
+    },
+    {
+      "id": "b_mszkv2hp_tgo8h",
+      "roomId": "101",
+      "bedId": "C",
+      "studentName": "ram",
+      "studentMobile": "9398175183",
+      "month": "September 2026",
+      "amountPaid": 6500,
+      "originalRent": 6500,
+      "discountApplied": 0,
+      "coinsEarned": 300,
+      "status": "Paid",
+      "createdAt": "2026-08-19T04:14:33.565Z",
+      "paymentDate": "2026-08-19T13:24:48.053Z"
+    },
+    {
+      "id": "b_mszkv2hp_ib4so",
+      "roomId": "102",
+      "bedId": "A",
+      "studentName": "bhargav",
+      "studentMobile": "8888888888",
+      "month": "September 2026",
+      "amountPaid": 7500,
+      "originalRent": 7500,
+      "discountApplied": 0,
+      "coinsEarned": 350,
+      "status": "Paid",
+      "createdAt": "2026-08-19T04:14:33.565Z",
+      "paymentDate": "2026-08-19T13:23:08.577Z",
+      "paymentType": "Online",
+      "onlineAmount": 7500,
+      "cashAmount": 0
+    },
+    {
+      "id": "b_mszkv2hp_emo0h",
+      "roomId": "102",
+      "bedId": "B",
+      "studentName": "venkat77777777",
+      "studentMobile": "7777777",
+      "month": "September 2026",
+      "amountPaid": 7500,
+      "originalRent": 7500,
+      "discountApplied": 0,
+      "coinsEarned": 350,
+      "status": "Paid",
+      "createdAt": "2026-08-19T04:14:33.565Z",
+      "paymentDate": "2026-08-19T06:05:01.885Z",
+      "paymentType": "Split",
+      "onlineAmount": 3000,
+      "cashAmount": 4500,
+      "coinsRedeemed": false
+    },
+    {
+      "id": "b_mszkv2hp_6vsql",
+      "roomId": "205",
+      "bedId": "C",
+      "studentName": "Emily Davis",
+      "studentMobile": "8765432109",
+      "month": "September 2026",
+      "amountPaid": 6500,
+      "originalRent": 6500,
+      "discountApplied": 0,
+      "coinsEarned": 300,
+      "status": "Paid",
+      "createdAt": "2026-08-19T04:14:33.565Z",
+      "paymentDate": "2026-08-19T13:36:42.220Z",
+      "paymentType": "Cash"
+    },
+    {
+      "id": "b_mszkv2hp_8jh0i",
+      "roomId": "401",
+      "bedId": "A",
+      "studentName": "Alex Johnson",
+      "studentMobile": "9000100020",
+      "month": "September 2026",
+      "amountPaid": 7500,
+      "originalRent": 7500,
+      "discountApplied": 0,
+      "coinsEarned": 350,
+      "status": "Paid",
+      "createdAt": "2026-08-19T04:14:33.565Z",
+      "paymentDate": "2026-08-19T04:15:00.838Z"
+    }
+  ]
+}
